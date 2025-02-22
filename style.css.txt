@@ -1,7 +1,8 @@
 body {
-    text-align: center;
-    font-family: Arial, sans-serif;
+    background-color: #f0f0f0; /* Light gray background */
+    font-family: 'Roboto', sans-serif; /* Change to a new font */
 }
+
 h1 {
-    color: blue;
+    color: #3498db; /* Blue color for heading */
 }

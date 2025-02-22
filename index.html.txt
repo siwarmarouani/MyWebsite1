@@ -1,11 +1,19 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>My First Website</title>
-    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
 </head>
 <body>
-    <h1>Welcome to My Website!</h1>
-    <p>This is my first webpage.</p>
+    <header>
+        <h1>Welcome to My Website</h1>
+    </header>
+    <main>
+        <p>This is my homepage.</p>
+
+        <!-- New Link: Contact Page -->
+        <p>For inquiries, visit my <a href="contact.html">Contact Page</a>.</p>
+    </main>
 </body>
 </html>
